@@ -1,1 +1,1 @@
-vcs ja podem começar ai a programar as ideias de vcs mas cuidado pra n ferrar com o codigo de outra pessoa, se forem fzr alterações criem um novo arquivo com as alterações e mandem, dznd na descriçãoo as alterações q fizeram.
+vcs ja podem começar ai a programar as ideias de vcs mas cuidado pra n ferrar com o codigo de outra pessoa, se forem fzr alterações criem um novo arquivo com as alterações e mandem, dznd na descriçãoo as alterações q fizeram. e se tiver um bglh q vcs qrem fzr mt diferente do do codigo q tiver na main vcs criam outra branch com oq vcs quiserem fzr.
