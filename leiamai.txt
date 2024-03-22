@@ -1,0 +1,1 @@
+vcs ja podem começar ai a programar as ideias de vcs mas cuidado pra n ferrar com o codigo de outra pessoa, se forem fzr alterações criem um novo arquivo com as alterações e mandem, dznd na descriçãoo as alterações q fizeram.
