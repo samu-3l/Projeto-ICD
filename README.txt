@@ -1,1 +1,1 @@
-vc ja podem ir fznd oq vcs quiserem ai criem novos arquivos com oq vcs qrem programar de mandem pro repositorio so cuidado pra n mudar um ngc de outra pessoa sem qrer.
+vc ja podem ir fznd oq vcs quiserem ai criem novos arquivos com o vscode com oq vcs qrem programar de mandem pro repositorio so cuidado pra n mudar um ngc de outra pessoa sem qrer.
