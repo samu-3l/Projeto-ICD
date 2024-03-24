@@ -27,7 +27,9 @@
 https://www.kaggle.com/datasets/andreuvallhernndez/myanimelist
 
 https://www.nintendo.co.jp/ir/en/finance/software/3ds.html
+
 https://vgsales.fandom.com/wiki/Pokémon
+
 https://www.kaggle.com/datasets/rishidamarla/video-game-sales
 
 https://www.reddit.com/r/pokemon/comments/c0w4s0/favourite_pokémon_survey_results/
