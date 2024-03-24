@@ -8,7 +8,7 @@
 - Lucas Nóbrega Albuquerque
 - Samuel Pessoa de Castro
 
-## Perguntas a serem respondidas:
+### Perguntas a serem respondidas:
 
  * 1- Qual é a geração com maior número de vendas de jogos?
 
@@ -22,7 +22,7 @@
 
  * 6- Qual a correlação entre o tipo dos pokémon e os seus stats? Existem tipos mais fortes que outros?
 
-## Fontes dos dados:
+### Fontes dos dados:
 
 https://www.kaggle.com/datasets/andreuvallhernndez/myanimelist
 
