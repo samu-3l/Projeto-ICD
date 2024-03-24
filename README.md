@@ -1,5 +1,5 @@
 
-# Projeto de Introdção a Ciência de Dados
+# Projeto de Introdução a Ciência de Dados
 
 ## Integrantes do grupo:
 
