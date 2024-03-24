@@ -10,11 +10,11 @@
 
 ### Perguntas a serem respondidas:
 
- * 1- Qual é a geração com maior número de vendas de jogos?
+ * 1- Quais são os pokémon preferidos da comunidade e quais os menos?
 
  * 2- Quais são as temporadas e os filmes mais bem avaliadas de pokémon?
 
- * 3- Quais são os pokémon preferidos da comunidade e quais os menos?
+ * 3- Qual é a geração com maior número de vendas de jogos?
 
  * 4- Quantos pokémon existem em cada geração e em cada tipo?
 
