@@ -14,7 +14,7 @@
 
  * 2- Quais são as temporadas e os filmes mais bem avaliadas de pokémon?
 
- * 3- Qual é a geração com maior número de vendas de jogos?
+ * 3- Quais os jogos mais vendidos de pokémon?
 
  * 4- Quantos pokémon existem em cada geração e em cada tipo?
 
