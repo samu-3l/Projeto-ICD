@@ -16,7 +16,7 @@
 
  * 3- Quantos pokémon existem em cada geração e em cada tipo?
 
- * 4- Qual é o pokémon mais forte, estatisticamente?
+ * 4- Quais são os 10 pokémon mais fortes, estatisticamente?
 
  * 5- Qual a correlação entre o tipo dos pokémon e os seus stats? Existem tipos mais fortes que outros?
 
