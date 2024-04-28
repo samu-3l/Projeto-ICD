@@ -10,17 +10,17 @@
 
 ### Perguntas a serem respondidas:
 
- * 1- Quais são os pokémon preferidos da comunidade e quais os menos?
+ * 1- Quais são os jogos mais vendidos de pokémon?
 
  * 2- Quais são as temporadas e os filmes mais bem avaliadas de pokémon?
 
- * 3- Quais os jogos mais vendidos de pokémon?
+ * 3- Quantos pokémon existem em cada geração e em cada tipo?
 
- * 4- Quantos pokémon existem em cada geração e em cada tipo?
+ * 4- Qual é o pokémon mais forte, estatisticamente?
 
- * 5- Qual é o pokémon mais forte entre os lendários e os não lendários, estatisticamente?
+ * 5- Qual a correlação entre o tipo dos pokémon e os seus stats? Existem tipos mais fortes que outros?
 
- * 6- Qual a correlação entre o tipo dos pokémon e os seus stats? Existem tipos mais fortes que outros?
+ * 6- Quais são os pokémon preferidos da comunidade e quais os menos?
 
 ### Fontes dos dados:
 
